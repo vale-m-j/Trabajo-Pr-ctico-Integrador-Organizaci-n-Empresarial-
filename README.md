@@ -20,11 +20,11 @@ El proyecto fue desarrollado aplicando conceptos de modelado de procesos, diagra
 ---
 
 ## Modelado y Análisis del Sistema
-![Flujo del Proceso (BPMN): Ideal para explicar el negocio.](Diagrama BPMN.png)
+![Flujo del Proceso (BPMN): Ideal para explicar el negocio.](BPMN.png)
 
-![Flujo de Datos (DFD): Ideal para explicar cómo viaja la info.](Diagrama de Flujo de Datos.png)
+![Flujo de Datos (DFD): Ideal para explicar cómo viaja la info.](DFD.png)
 
-![Máquina de Estados: Ideal para explicar la "memoria" del bot.](Diagrama de estados.png)
+![Máquina de Estados: Ideal para explicar la "memoria" del bot.](DE.png)
 
 ---
 
